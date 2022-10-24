@@ -144,3 +144,9 @@ dmypy.json
 .history/
 
 .mypy_cache
+
+.git/*
+env/
+venv/
+.venv
+.venv/
